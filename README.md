@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola, soy Gabriel Cipriano! 👋
 
-<!--
-**gabrielciprianoo/gabrielciprianoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Desarrollador Fullstack**  
+🚀 **CEO de [ABIS](https://abis.solutions)**  
+🌍 **Transformando ideas en soluciones digitales**  
+🎓 **Mentor y guía para desarrolladores en crecimiento**
 
-Here are some ideas to get you started:
+## Sobre Mí
+Soy un apasionado desarrollador fullstack con más de 3 años de experiencia en la creación de aplicaciones web y soluciones digitales. Como CEO de ABIS, lidero proyectos que ayudan a empresas a alcanzar sus objetivos a través de tecnología de vanguardia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Mis Habilidades
+- **Lenguajes:** JavaScript, TypeScript, PHP
+- **Frameworks:** React, Node.js, Laravel
+- **Bases de Datos:** MySQL, PostgreSQL, MongoDB
+- **DevOps:** Docker, CI/CD, AWS
+
+## 🌱 Actualmente Aprendiendo
+- **Desarrollo de Aplicaciones Móviles con React Native**
+
+## 📈 Estadísticas de GitHub
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCipriano&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCipriano&show_icons=true&theme=dark)
+
+
+---
+"El código es el lenguaje con el que construimos el futuro." 🚀
