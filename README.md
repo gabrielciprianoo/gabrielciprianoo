@@ -6,7 +6,7 @@
 🎓 **Mentor y guía para desarrolladores en crecimiento**
 
 ## Sobre Mí
-Soy un apasionado desarrollador fullstack con más de 3 años de experiencia en la creación de aplicaciones web y soluciones digitales. Como CEO de ABIS, lidero proyectos que ayudan a empresas a alcanzar sus objetivos a través de tecnología de vanguardia.
+Soy un apasionado desarrollador fullstack con más de 3 años de experiencia en la creación de aplicaciones web y soluciones digitales. Como CEO de ABIS, lidero proyectos que ayudan a emprendedores en fase de crecimiento a implementar o mejorar sus servicios mediante el desarrollo de sitios web y sistemas digitales personalizados.
 
 ## 🚀 Mis Habilidades
 - **Lenguajes:** JavaScript, TypeScript, PHP
