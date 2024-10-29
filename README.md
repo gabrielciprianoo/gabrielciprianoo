@@ -3,7 +3,7 @@
 👨‍💻 **Desarrollador Fullstack**  
 🚀 **CEO de [ABIS](https://abis.solutions)**  
 🌍 **Transformando ideas en soluciones digitales**  
-🎓 **Mentor y guía para desarrolladores en crecimiento**
+🎓 **Desarrollador en crecimiento**
 
 ## Sobre Mí
 Soy un apasionado desarrollador fullstack con más de 3 años de experiencia en la creación de aplicaciones web y soluciones digitales. Como CEO de ABIS, lidero proyectos que ayudan a emprendedores en fase de crecimiento a implementar o mejorar sus servicios mediante el desarrollo de sitios web y sistemas digitales personalizados.
