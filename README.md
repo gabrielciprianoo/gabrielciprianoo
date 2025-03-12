@@ -14,11 +14,3 @@ Soy un apasionado desarrollador fullstack con más de 3 años de experiencia en 
 
 ## 🌱 Actualmente Aprendiendo
 - **Desarrollo de Aplicaciones Móviles con React Native**
-
-## 📈 Estadísticas de GitHub
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCipriano&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCipriano&show_icons=true&theme=dark)
-
-
----
-"El código es el lenguaje con el que construimos el futuro." 🚀
