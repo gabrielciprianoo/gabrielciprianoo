@@ -11,7 +11,6 @@ Soy un apasionado desarrollador fullstack con más de 3 años de experiencia en 
 - **Lenguajes:** JavaScript, TypeScript, PHP
 - **Frameworks:** React, Node.js, Laravel
 - **Bases de Datos:** MySQL, PostgreSQL, MongoDB
-- **DevOps:** Docker, CI/CD, AWS
 
 ## 🌱 Actualmente Aprendiendo
 - **Desarrollo de Aplicaciones Móviles con React Native**
