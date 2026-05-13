@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a66c2&height=200&section=header&text=Gabriel+%20+Cipriano&fontSize=60&fontAlignY=38&fontColor=ffffff&desc=Full-Stack%20Developer%20·%20M%C3%A9xico&descAlignY=60&descSize=18&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1AB5DC&height=200&section=header&text=Gabriel%20Cipriano&fontSize=60&fontAlignY=38&fontColor=ffffff&desc=Full-Stack%20Developer%20·%20M%C3%A9xico&descAlignY=60&descSize=18&animation=fadeIn" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%C2%B7+CST+(UTC-6);React+%2B+TypeScript+%2B+AWS;Bridging+technology+and+the+people+who+use+it" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1AB5DC&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%C2%B7+CST+(UTC-6);React+%2B+TypeScript+%2B+AWS;Bridging+technology+and+the+people+who+use+it" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,29 +23,29 @@ I build maintainable systems that connect technology with the people who use it.
 ### 🛠️ Tech I work with
 
 **Frontend**  
-![React](https://img.shields.io/badge/React-0A66C2?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A66C2?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-0A66C2?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A66C2?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-0A66C2?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD028)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
 
 **Backend**  
-![Laravel](https://img.shields.io/badge/Laravel-0A66C2?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-0A66C2?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0A66C2?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Cloud · AWS**  
-![AWS](https://img.shields.io/badge/AWS-0A66C2?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amplify](https://img.shields.io/badge/Amplify-0A66C2?style=for-the-badge&logo=awsamplify&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-0A66C2?style=for-the-badge&logo=awslambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-0A66C2?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![AppSync](https://img.shields.io/badge/AppSync-0A66C2?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Cognito](https://img.shields.io/badge/Cognito-0A66C2?style=for-the-badge&logo=amazoncognito&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![AppSync](https://img.shields.io/badge/AppSync-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white)
 
 **Practices**  
-![Git](https://img.shields.io/badge/Git-0A66C2?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0A66C2?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🎯 How I work
 
@@ -61,7 +61,7 @@ I build maintainable systems that connect technology with the people who use it.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:devgabrielcipriano@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
