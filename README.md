@@ -10,7 +10,7 @@
 
 ### 👋 About me
 
-I build maintainable systems that connect technology with the people who use it. Currently leading development at an automotive workshop, where I turn manual operations into scalable internal software.
+I build maintainable systems that connect technology with the people who need it. Currently leading development at an automotive workshop, where I turn manual operations into scalable internal software.
 
 ~5 years writing code, 3 professionally — starting in PHP/Laravel backends and evolving toward modern React + AWS serverless architectures.
 
@@ -67,6 +67,4 @@ I build maintainable systems that connect technology with the people who use it.
 
 📍 México · CST (UTC−6)
 
----
 
-<p align="center"><sub><em>"Bridging technology and the people who use it."</em></sub></p>
